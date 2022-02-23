@@ -22,8 +22,8 @@ body {
 }
 
 .photo img {
-    border-radius: %;
-    max-width: 250px;
+    border-radius: 2%;
+    max-width: 500px;
 }
 
 /* TITLE */
